@@ -1,3 +1,5 @@
-function newFeature() {
-  console.log("New feature added");
+
+function A() {
+  console.log("A func");
+
 }
